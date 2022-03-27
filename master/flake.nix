@@ -11,6 +11,7 @@
   inputs.src-cobs-master.ref   = "refs/heads/master";
   inputs.src-cobs-master.owner = "keyme";
   inputs.src-cobs-master.repo  = "nim_cobs";
+  inputs.src-cobs-master.dir   = "";
   inputs.src-cobs-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
