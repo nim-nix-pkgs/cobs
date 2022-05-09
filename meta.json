@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/keyme/nim_cobs",
   "refs": [
-    "fatal: unable to access 'https://github.com/keyme/nim_cobs/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
+    "fatal: unable to access 'https://github.com/keyme/nim_cobs/': Failed to connect to github.com port 443 after 131050 ms: Connection timed out",
     ""
   ],
   "heads": []
