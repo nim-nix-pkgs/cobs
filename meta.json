@@ -7,37 +7,8 @@
   "license": "MIT",
   "web": "https://github.com/keyme/nim_cobs",
   "refs": [
-    "refs/heads/master",
+    "fatal: unable to access 'https://github.com/keyme/nim_cobs/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
     ""
   ],
-  "heads": [
-    {
-      "name": "cobs",
-      "version": "1.0.0",
-      "author": "Jeff Ciesielski",
-      "desc": "Consistent Overhead Byte Stuffing for Nim",
-      "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 0.18.0",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "0.18.0"
-          }
-        }
-      ],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "src",
-      "backend": "c",
-      "ref": "refs/heads/master"
-    }
-  ]
+  "heads": []
 }
